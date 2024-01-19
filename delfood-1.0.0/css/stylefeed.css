@@ -3,9 +3,9 @@ body {
 }
 
 .background {
-    /* background: linear-gradient(to bottom right, #fcfafa, #0e4b9b); */
+    background: linear-gradient(to bottom right, #fcfafa, #0e4b9b);
     /* background-image: url('canteen-plaza-indonesia001.jpg'); */
-    background-image: image-set('R.jfif');
+    /* background-image: image-set('R.jfif'); */
     height: 100vh;
     display: flex;
     align-items: center;
@@ -28,6 +28,7 @@ form {
 
 h1 {
     color: #333;
+    
 }
 
 label {
